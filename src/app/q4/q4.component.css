@@ -1,0 +1,16 @@
+.r1{
+    display: flex; 
+    justify-content: space-between;
+}
+.input{
+    display: flex; 
+    justify-content: center; 
+    position: relative;
+    top:250px;
+}
+.r2{
+    position: relative; 
+    justify-content: space-between;
+    top : 500px ; 
+    display: flex; 
+}
